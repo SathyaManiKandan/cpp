@@ -1,0 +1,1 @@
+int lsum = findsum(root->left);
